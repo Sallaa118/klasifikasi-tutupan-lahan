@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-datasets
+importlib_resources
+scikit-learn
+matplotlib
+seaborn
+numpy
+pandas
+pyarrow
+pillow
